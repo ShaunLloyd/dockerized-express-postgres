@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+build
+dist
+data
+yarn-error.log
+dev.env
+.vscode
